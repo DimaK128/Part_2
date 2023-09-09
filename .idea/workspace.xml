@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72d6c8a0-dd3e-4c04-9861-22be2503165f" name="Changes" comment="part 2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +46,21 @@
       <option name="presentableId" value="Default" />
       <updated>1692878111028</updated>
       <workItem from="1692878112102" duration="1557000" />
-      <workItem from="1693254384474" duration="2246000" />
+      <workItem from="1693254384474" duration="2562000" />
+      <workItem from="1693303654674" duration="3747000" />
+      <workItem from="1693476985951" duration="10000" />
+      <workItem from="1693750876893" duration="658000" />
+      <workItem from="1693864375262" duration="593000" />
     </task>
+    <task id="LOCAL-00001" summary="part 2">
+      <option name="closed" value="true" />
+      <created>1693256656322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693256656322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
